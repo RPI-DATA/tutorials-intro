@@ -1,3 +1,7 @@
+## Introduction
+
+Principal component analysis is a dimensionality reduction technique that uses as assumption of linearity to analyze variance between independent variables in a data set.  This technique is generally used for continuous data or measurements.
+
 ## Notebooks
 
 * Work on Clustering and Transformation adopted from:
